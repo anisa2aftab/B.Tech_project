@@ -13,14 +13,41 @@ Today, in industries and as well as in household applications an emergency light
 ## Components
 
 - STEP DOWN TRANSFORMER
+
+![image](https://github.com/user-attachments/assets/a2813b83-64bc-484d-b81d-3641c059548a)
+
 - BRIDGE RECTIFIER
+
+![image](https://github.com/user-attachments/assets/2db5f2c5-2d20-4b33-b18b-3257959d2378)
+
 - FILTER CAPACITOR
+
+![image](https://github.com/user-attachments/assets/2051d2ec-aead-4a04-bee2-5e98fb8f54fb)
+
 - HIGH INTENSITY WHITE LED
+
+![image](https://github.com/user-attachments/assets/8af2f8d8-f4f2-4090-aed8-28e080fc5cbc)
+
 - ZENER DIODE
+
+![image](https://github.com/user-attachments/assets/29cd86ee-e1cf-4eec-9b28-e1b5a68447d9)
+
 - IC LM-317
+
+![image](https://github.com/user-attachments/assets/3e263952-8dc5-4d0c-b736-542f3ae003e0)
+
 - TRANSISTOR BD-140,BC-548
+
+![image](https://github.com/user-attachments/assets/7bbb442d-d98e-49cd-a42e-580a6be0dead)
+
 - DIODE 
-- RESISTOR   
+
+![image](https://github.com/user-attachments/assets/c9b77f34-7200-4b7e-a314-059548a1256c)
+
+- RESISTOR  
+
+![image](https://github.com/user-attachments/assets/0f9388f3-3c80-436f-af7e-7439d5d8febf)
+
 
 ## Operation of the circuit
 
