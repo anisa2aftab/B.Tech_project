@@ -106,3 +106,7 @@ Here is a white-LED-based emergency light that offers the following advantages:
      when mains power resumes.
 
 3.  It has its own battery charger. When the battery is fully charged charging stops automatically
+## Documentation
+
+[B.Tech_project_documentation.pdf](https://github.com/user-attachments/files/17831092/B.Tech_project_documentation.pdf)
+
